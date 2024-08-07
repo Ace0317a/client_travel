@@ -535,6 +535,10 @@ mark,
   height: 300px;
 }
 
+.page-header{
+  min-height: 400px;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #F3F3F3;
