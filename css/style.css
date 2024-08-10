@@ -535,6 +535,11 @@ mark,
   height: 300px;
 }
 
+.img-fluid-fcn {
+  max-width: 100%;
+  height: auto;
+}
+
 .page-header{
   min-height: 400px;
 }
